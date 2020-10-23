@@ -12,6 +12,7 @@
 
 Features
 ------------
+* **Vira's Feature** 
 
 * **Clean, intuitive design** — With Slate, the description of your API is on the left side of your documentation, and all the code examples are on the right side. Inspired by [Stripe's](https://stripe.com/docs/api) and [PayPal's](https://developer.paypal.com/webapps/developer/docs/api/) API docs. Slate is responsive, so it looks great on tablets, phones, and even in print.
 
@@ -56,6 +57,7 @@ Companies Using Slate
 * [Coinbase](https://developers.coinbase.com/api)
 * [Parrot Drones](http://developer.parrot.com/docs/bebop/)
 * [Scale](https://docs.scaleapi.com/)
+* [Wizeline](https://www.wizeline.com)
 
 You can view more in [the list on the wiki](https://github.com/slatedocs/slate/wiki/Slate-in-the-Wild).
 
